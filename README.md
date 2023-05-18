@@ -1,4 +1,4 @@
-<img align="top" width = "1000" height = "500" src="[https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif]">
+<img align="top" width = "1000" height = "500" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 <h1 align="center"> नमस्ते (Namaste), I'm Luvkush Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
   
