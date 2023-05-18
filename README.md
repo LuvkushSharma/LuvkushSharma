@@ -9,7 +9,7 @@
 <h3 align="center">In a learning mode</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luvkush8941&label=Profile%20views&color=0e75b6&style=flat" alt="luvkush8941" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvkushSharma&label=Profile%20views&color=0e75b6&style=flat" alt="LuvkushSharma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -19,14 +19,13 @@
 
 - 📫 How to reach me **yos8760@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luvkush-sharma-4581a3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luvkush sharma" height="30" width="40" /></a>
-  
-<a href="https://www.codechef.com/users/gla_m_014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gla_m_014" height="30" width="40" /></a>
+## Coding Platforms :
+
+<a href="https://www.codechef.com/users/gla_m_014" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="gla_m_014" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/luvkush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luvkush sharma" height="30" width="40" /></a>
-</p>
+
+<a href="https://leetcode.com/luvkush_14/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="luvkush sharma" height="50" width="70" /></a>
 
 <br>
 
