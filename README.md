@@ -46,8 +46,8 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luvkush8941&show_icons=true&locale=en" alt="luvkush8941" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvkush8941&" alt="luvkush8941" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LuvkushSharma&show_icons=true&locale=en" alt="LuvkushSharma" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuvkushSharma&" alt="LuvkushSharma" width="45%" />
 
 <br>
 
