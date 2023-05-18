@@ -13,9 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **C ,Python and basic data structures and algorithms**
+- 💬 Ask me about ** Data structures and algorithms**
 
 - 📫 How to reach me **yos8760@gmail.com**
 
@@ -34,7 +32,7 @@
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
-<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="200" height="200" src="https://media2.giphy.com/media/pT4hk0FMDu5VT0oRQc/200w.gif?cid=82a1493b9vmvghhh6l756gpfj7wxmo4om6ng7gck95oqo5mw&ep=v1_gifs_related&rid=200w.gif&ct=s">
 
 
 ![][c]  ![][java] ![][python] <br>
