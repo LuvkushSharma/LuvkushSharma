@@ -30,16 +30,45 @@
 <br>
 
 
+## 💻 Tech Stack:
 <div align="center">
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+
+![][c]  ![][java] ![][python] <br>
+![][html] ![][css] ![][javascript] <br>
+ ![][mysql]  ![][github] ![][c++] <br>
+<br>
+</div><br>
+
+## 📝 IDE Used:
+![][vscode] ![][pycharm] ![][intelij]  <br><br>
+
+<br >
+
+## 💹 Contribution Graph:
+
+<div align = "center">
+  
+![][snake] <br> ![][graph]
+
 </div>
 
 
-<br >
+<h2 align="center">
+<p align="center"><img width="150%" 
+</p>
+
+Productivity Stats📈:
+<table>
+  <tr>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuvkushSharma&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+   </tr> 
+</table>
+</p>
+
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -58,5 +87,28 @@
 <div align="center">
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
+  
+ <!----------------------------------{ contribution stats }--------------------------------->
+
+[snake]: https://github.com/LuvkushSharma/LuvkushSharma/blob/output/snake.svg
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=LuvkushSharma&theme=react-dark&hide_border=false&area=true
+<!----------------------------------{ language badges }--------------------------------->
+
+[c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
+[c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
+[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3
+[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5
+[shell]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
+[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+
+  
  
  <br/>
