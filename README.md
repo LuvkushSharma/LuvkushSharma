@@ -1,4 +1,4 @@
-<img align="top" width = "1000" height = "500" src="[https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif](https://media3.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47t7j34fsy1dzrqa4uscerbtrj74ylg8ha2dag8qu7&ep=v1_gifs_search&rid=200.webp&ct=g)">
+<img align="top" width = "1000" height = "500" src="[https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif]">
 <h1 align="center"> नमस्ते (Namaste), I'm Luvkush Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
   
