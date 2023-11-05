@@ -15,15 +15,17 @@
 
 - 💬 Ask me about ** Data structures and algorithms**
 
-- 📫 How to reach me **yos8760@gmail.com**
+- 📫 How to reach me **luvkush.sharma8941@gmail.com**
 
 ## Coding Platforms :
 
-<a href="https://www.codechef.com/users/gla_m_014" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="gla_m_014" height="30" width="40" /></a>
-  
-<a href="https://www.hackerrank.com/luvkush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luvkush sharma" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Luvkush_sharma" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FCodeforces_logo.svg%2F2560px-Codeforces_logo.svg.png&tbnid=IBVYW_xyjuIL3M&vet=12ahUKEwiWh_r98quCAxVE2jgGHZBnAFwQMygIegQIARB-..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ACodeforces_logo.svg&docid=eeaVS9RcikWztM&w=2560&h=302&q=codeforces%20images&ved=2ahUKEwiWh_r98quCAxVE2jgGHZBnAFwQMygIegQIARB-" alt="Codeforces" height="50" width="70" /></a>
 
-<a href="https://leetcode.com/luvkush_14/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="luvkush sharma" height="50" width="70" /></a>
+<a href="https://www.codechef.com/users/luvkush8941" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Codechef" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/luvkush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/luvkush_14/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="Leetcode" height="50" width="70" /></a>
 
 <br>
 
