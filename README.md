@@ -4,7 +4,10 @@
   
 <h2>A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Learning new languages.</h2>
 
-<p>A 3rd year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
+<p>A 4th year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuvkushSharma" alt="LuvkushSharma" /></a> </p>
+
 
 <h3 align="center">In a learning mode</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
@@ -40,6 +43,7 @@
 ![][c]  ![][java] ![][python] <br>
 ![][html] ![][css] ![][javascript] <br>
  ![][mysql]  ![][github] ![][c++] <br>
+
 <br>
 </div><br>
 
@@ -108,5 +112,6 @@ Productivity Stats📈:
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+
 
  <br/>
